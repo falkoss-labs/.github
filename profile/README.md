@@ -23,6 +23,7 @@ moves to an organisation of its own – GitHub keeps redirecting the old links.
 ### Same rules as falkOSS
 
 - **Free licences** – everything is open source under an OSI-approved licence; forks keep their upstream licence.
+- **Everything included** – one edition, every feature free; no paid tiers, nothing held back.
 - **No telemetry** – nothing phones home.
 - **In the open** – issues, plans, reviews and decisions happen in public.
 - **Non-profit** – part of the falkOSS gUG (in formation); money goes into the software, never into profits.
